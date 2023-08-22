@@ -2,9 +2,10 @@
 
 ## instructions
 
-1. install required packages using ```yarn install```
-2. run with ```yarn start```
-3. default address: http://localhost:3000/
+1. edit firebase credentials in ```firebase.js```
+2. install required packages using ```yarn install```
+3. run with ```yarn start```
+4. default address: http://localhost:3000/
 
 ## functionalities
 
