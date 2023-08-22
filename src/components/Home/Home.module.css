@@ -1,0 +1,17 @@
+.notesGallary {
+    width: 75vw;
+    margin: 3vh auto 0 auto;
+}
+  
+.addNote {
+position: fixed;
+right: 5vw;
+top: 30vh;
+}
+  
+.signOutButton {
+z-index: 100;
+position: fixed;
+right: 8vw;
+top: 3vh;
+}

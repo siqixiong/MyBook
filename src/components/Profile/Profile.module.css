@@ -1,0 +1,35 @@
+.doesNotExist {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    font-weight: bold;
+  }
+  
+  .signOutContainer {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .profileContainer {
+    position: relative;
+    margin-top: 20px;
+  }
+  
+  .userInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 30px;
+  }
+  
+  .userInfo > * {
+    margin-bottom: 10px;
+  }
+  
+  .notesDisplay {
+    width: 75vw;
+  }
